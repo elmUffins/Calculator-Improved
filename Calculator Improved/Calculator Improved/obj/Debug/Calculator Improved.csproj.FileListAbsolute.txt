@@ -1,0 +1,21 @@
+C:\Users\User\RiderProjects\Calculator Improved\Calculator Improved\bin\Debug\Calculator_Improved.exe.config
+C:\Users\User\RiderProjects\Calculator Improved\Calculator Improved\bin\Debug\Calculator_Improved.exe
+C:\Users\User\RiderProjects\Calculator Improved\Calculator Improved\bin\Debug\Calculator_Improved.pdb
+C:\Users\User\RiderProjects\Calculator Improved\Calculator Improved\obj\Debug\Calculator Improved.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\Calculator Improved\Calculator Improved\obj\Debug\Calculator Improved.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\RiderProjects\Calculator Improved\Calculator Improved\obj\Debug\Calculator_Improved.Properties.Resources.resources
+C:\Users\User\RiderProjects\Calculator Improved\Calculator Improved\obj\Debug\Calculator Improved.csproj.GenerateResource.cache
+C:\Users\User\RiderProjects\Calculator Improved\Calculator Improved\obj\Debug\Calculator Improved.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\Calculator Improved\Calculator Improved\obj\Debug\Calculator_Improved.exe
+C:\Users\User\RiderProjects\Calculator Improved\Calculator Improved\obj\Debug\Calculator_Improved.pdb
+C:\Users\User\RiderProjects\Calculator Improved\Calculator Improved\obj\Debug\Calculator_Improved.Form1.resources
+C:\Users\48313053\RiderProjects\Calculator Improved\Calculator Improved\bin\Debug\Calculator_Improved.exe.config
+C:\Users\48313053\RiderProjects\Calculator Improved\Calculator Improved\bin\Debug\Calculator_Improved.exe
+C:\Users\48313053\RiderProjects\Calculator Improved\Calculator Improved\bin\Debug\Calculator_Improved.pdb
+C:\Users\48313053\RiderProjects\Calculator Improved\Calculator Improved\obj\Debug\Calculator Improved.csproj.AssemblyReference.cache
+C:\Users\48313053\RiderProjects\Calculator Improved\Calculator Improved\obj\Debug\Calculator_Improved.Form1.resources
+C:\Users\48313053\RiderProjects\Calculator Improved\Calculator Improved\obj\Debug\Calculator_Improved.Properties.Resources.resources
+C:\Users\48313053\RiderProjects\Calculator Improved\Calculator Improved\obj\Debug\Calculator Improved.csproj.GenerateResource.cache
+C:\Users\48313053\RiderProjects\Calculator Improved\Calculator Improved\obj\Debug\Calculator Improved.csproj.CoreCompileInputs.cache
+C:\Users\48313053\RiderProjects\Calculator Improved\Calculator Improved\obj\Debug\Calculator_Improved.exe
+C:\Users\48313053\RiderProjects\Calculator Improved\Calculator Improved\obj\Debug\Calculator_Improved.pdb
